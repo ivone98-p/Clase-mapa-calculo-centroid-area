@@ -1,0 +1,1 @@
+# Clase-mapa-calculo-centroid-area
